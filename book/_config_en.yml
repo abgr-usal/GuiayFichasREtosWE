@@ -1,13 +1,11 @@
 title: |
-  Creating Electronic Books
-  with Code and
-  Artificial Intelligence
-  Assistants
-author: Álvaro Lozano Murciego and André Sales Mendes
-copyright: "2026"
+  Teaching Guides and Worksheets
+  WE Challenges 2024
+author: Ana B. González-Rogado (coord.) et al.
+copyright: "2024"
 logo: "_static/logo.png"
 language: en
-exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "es/","temp_build_*", "latex_templates*", "_TRASH*"]
+exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "es/", "temp_build_*", "latex_templates*", "_TRASH*"]
 execute:
   execute_notebooks: off
 parse:
@@ -50,12 +48,12 @@ latex_docclass:
 latex:
   latex_engine: xelatex
   options: "english"
-  subtitle: "Course for the Faculties of Sciences and Chemical Sciences"       # Optional
+  subtitle: "All WE are STEAM — Learning experiences designed by women engineers"
   header_title: |
-    Creating electronic books
-    with code and AI
-  institution: "Universidad de Salamanca"  # Optional
-  edition: "1st Edition"                # Optional
+    Teaching Guides and Worksheets
+    WE Challenges 2024
+  institution: "Universidad de Salamanca"
+  edition: "1st Edition — 2024"
   cover_logo: "_static/usal_logo.png"  # PDF cover logo; the web logo is configured above in `logo`
   # isbn: "978-84-XXXXX-XX-X"          # Optional
   # doi: "10.XXXX/xxxxx"               # Optional

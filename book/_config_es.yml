@@ -1,10 +1,8 @@
 title: |
-  Elaboración de libros
-  electrónicos mediante
-  código y asistentes de
-  Inteligencia Artificial
-author: Álvaro Lozano Murciego y André Sales Mendes
-copyright: "2026"
+  Guías y Fichas Docentes
+  Retos WE 2024
+author: Ana B. González-Rogado (coord.) et al.
+copyright: "2024"
 logo: "_static/logo.png"
 language: es
 exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "en/", "temp_build_*", "latex_templates*", "_TRASH*"]
@@ -50,12 +48,12 @@ latex_docclass:
 latex:
   latex_engine: xelatex
   options: "spanish"
-  subtitle: "Curso para las Facultades de Ciencias y de Ciencias Químicas"    # Opcional: subtítulo del libro
+  subtitle: "All WE are STEAM — Experiencias de aprendizaje planteadas por mujeres ingenieras"
   header_title: |
-    Elaboración de libros electrónicos
-    con código e IA
-  institution: "Universidad de Salamanca"  # Opcional
-  edition: "1ª Edición"               # Opcional
+    Guías y Fichas Docentes
+    Retos WE 2024
+  institution: "Universidad de Salamanca"
+  edition: "1ª Edición — 2024"
   cover_logo: "_static/usal_logo.png"  # Logo de la portada PDF; el logo web se configura arriba en `logo`
   # isbn: "978-84-XXXXX-XX-X"         # Opcional: descomentar cuando se tenga
   # doi: "10.XXXX/xxxxx"              # Opcional: descomentar cuando se tenga
