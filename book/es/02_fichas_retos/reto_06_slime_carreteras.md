@@ -1,13 +1,6 @@
-# Ficha Reto 6. El "Slime" de las carreteras
+# Reto 6. El “Slime” de las carreteras
 
 **Autoras:** Diana Movilla-Quesada, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 6 – El “Slime” de las carreteras
 
 ### Descripción
 
@@ -62,15 +55,24 @@ No es necesario ningún conocimiento previo\.
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 4: Educación de calidad; del ODS 9: Industria, innovación e infraestructura; y del ODS12: Producción y consumo responsables; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_4_TARGET_4.6.png](../../_static/reto_06_images/img_01.png)
+```{image} ../../_static/reto_06_images/img_01.png
+:alt: ODS 4 Meta 4
+:width: 150px
+```
 
 Meta 4\.6: De aquí a 2030, asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_9_TARGET_9.5.png](../../_static/reto_06_images/img_02.png)
+```{image} ../../_static/reto_06_images/img_02.png
+:alt: ODS 9 Meta 9
+:width: 150px
+```
 
 Meta 9\.5: Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.8.png](../../_static/reto_06_images/img_03.png)
+```{image} ../../_static/reto_06_images/img_03.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.8: De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza\.
 
@@ -85,8 +87,3 @@ Para alumnos de cursos superiores, se puede relacionar con experimentos más com
 ### Otras indicaciones
 
 Es un tema que puede aplicarse no sólo al ámbito de la ingeniería civil, sino a otros ámbitos\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

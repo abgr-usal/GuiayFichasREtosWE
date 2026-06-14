@@ -1,13 +1,6 @@
-# Ficha Reto 2. Equilibrio de figuras planas
+# Reto 2. Equilibrio de figuras planas
 
 **Autoras:** Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 2 – Equilibrio de figuras planas
 
 ### Descripción
 
@@ -126,11 +119,17 @@ Secundaria:
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 9: Industria, Innovación e Infraestructura; y del ODS 12: Producción y Consumo responsables; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_9_TARGET_9.5.png](../../_static/reto_02_images/img_01.png)
+```{image} ../../_static/reto_02_images/img_01.png
+:alt: ODS 9 Meta 9
+:width: 150px
+```
 
 Meta 9\.5: Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países, en particular los países en desarrollo, entre otras cosas fomentando la innovación y aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo por millón de habitantes y los gastos de los sectores público y privado en investigación y desarrollo\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.5.png](../../_static/reto_02_images/img_02.png)
+```{image} ../../_static/reto_02_images/img_02.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.5: De aquí a 2030, reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización\.
 
@@ -145,8 +144,3 @@ El reto no persigue la simple localización del centro de gravedad mediante ensa
 ### Otras indicaciones
 
 Si la asignatura en que se plantea forma parte del programa bilingüe, se recomienda que las explicaciones y conclusiones se realicen en el idioma correspondiente\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

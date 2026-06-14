@@ -1,13 +1,6 @@
-# Ficha Reto 14. ¿Perro, gato o conejo?
+# Reto 14. ¿Perro, gato o conejo?
 
 **Autoras:** Alicia García-Holgado, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 14 – ¿Perro, gato o conejo?
 
 ### Descripción
 
@@ -57,7 +50,10 @@ Usa la plataforma [https://web\.learningml\.org/](https://web.learningml.org/) \
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 4: Educación de Calidad, en la meta:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_4_TARGET_4.4.png](../../_static/reto_14_images/img_01.png)
+```{image} ../../_static/reto_14_images/img_01.png
+:alt: ODS 4 Meta 4
+:width: 150px
+```
 
 Meta 4\.4: Para 2030, aumentar sustancialmente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para el empleo, el trabajo decente y el emprendimiento\.
 
@@ -76,8 +72,3 @@ Además, la primera tarea a realizar, la recopilación de imágenes y su etiquet
 Al ser un tema sencillo, sin vocabulario muy técnico, se puede desarrollar también en otras lenguas\.
 
 Se recomienda revisar alguno de los ejemplos disponibles en LearningML para facilitar el posterior desarrollo del reto\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

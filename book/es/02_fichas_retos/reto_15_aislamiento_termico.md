@@ -1,13 +1,6 @@
-# Ficha Reto 15. Cómo identificar si una fachada está bien aislada térmicamente
+# Reto 15. Cómo identificar si una fachada está bien aislada térmicamente
 
 **Autoras:** M.ª Soledad Camino-Olea, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 15 – Cómo identificar si una fachada está bien aislada térmicamente
 
 ### Descripción
 
@@ -83,8 +76,3 @@ Podría ser una oportunidad para introducir a los estudiantes en conocimientos r
 ### Otras indicaciones
 
 Se podría realizar una charla explicativa a los estudiantes antes de acometer el reto e informarles de los conceptos necesarios y desarrollar algún ejemplo\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

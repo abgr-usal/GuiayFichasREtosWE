@@ -4,6 +4,9 @@ parts:
   - caption: Portada
     chapters:
     - file: es/00_portada
+    - file: es/00_indice
+    - file: es/00_cita
+    - file: es/00_financiacion
   - caption: Guía Docente
     chapters:
     - file: es/01_guia_docente/guia_docente

@@ -1,13 +1,6 @@
-# Ficha Reto 10. Mensajes secretos con disco cifrador
+# Reto 10. Mensajes secretos con disco cifrador
 
 **Autoras:** Susana Nieto-Isidro, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 10 – Mensajes secretos con disco cifrador
 
 ### Descripción
 
@@ -72,19 +65,31 @@ No es necesario el uso de otro material
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 4: Educación de calidad; y del ODS 5: Igualdad de Género; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_4_TARGET_4.1.png](../../_static/reto_10_images/img_01.png)
+```{image} ../../_static/reto_10_images/img_01.png
+:alt: ODS 4 Meta 4
+:width: 150px
+```
 
 Meta 4\. 1\. Asegurar la calidad de la educación primaria y secundaria\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_4_TARGET_4.6.png](../../_static/reto_10_images/img_02.png)
+```{image} ../../_static/reto_10_images/img_02.png
+:alt: ODS 4 Meta 4
+:width: 150px
+```
 
 Meta 4\.6\. Asegurar la alfabetización y conocimiento de aritmética\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_5_TARGET_5.5.png](../../_static/reto_10_images/img_03.png)
+```{image} ../../_static/reto_10_images/img_03.png
+:alt: ODS 5 Meta 5
+:width: 150px
+```
 
 Meta 5\.5\. Asegurar la participación plena de la mujer e igualdad de oportunidades\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_5_TARGET_5.B.PNG](../../_static/reto_10_images/img_04.png)
+```{image} ../../_static/reto_10_images/img_04.png
+:alt: ODS 5 Meta 5
+:width: 150px
+```
 
 Meta 5\.B\. Mejorar el uso de tecnología y TIC\.
 
@@ -96,9 +101,4 @@ Es conveniente que el proyecto se lleve a cabo dentro del aula para favorecer la
 
 ### Otras indicaciones
 
-En Educación Primaria se puede realizar la totalidad del reto dentro del aula, favoreciendo más los aspectos matemáticos, lingüísticos, históricos o puramente manipulativos según el criterio del/a tutor/a\. En Educación Secundaria, el reto puede ser abordado en la clase de Matemáticas, como ejemplo de aplicación de la matemática discreta o en la clase de Tecnología, como ejemplo de rotor o máquina de cifrado sencilla\. En Bachillerato, el reto puede ser abordado en la clase de Matemáticas o en la clase de Tecnología, incluso eliminando la construcción física del disco cifrador y proponiendo a los estudiantes que desarrollen un pequeño programa informático que replique el comportamiento de dicho disco cifrador\. 
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-
+En Educación Primaria se puede realizar la totalidad del reto dentro del aula, favoreciendo más los aspectos matemáticos, lingüísticos, históricos o puramente manipulativos según el criterio del/a tutor/a\. En Educación Secundaria, el reto puede ser abordado en la clase de Matemáticas, como ejemplo de aplicación de la matemática discreta o en la clase de Tecnología, como ejemplo de rotor o máquina de cifrado sencilla\. En Bachillerato, el reto puede ser abordado en la clase de Matemáticas o en la clase de Tecnología, incluso eliminando la construcción física del disco cifrador y proponiendo a los estudiantes que desarrollen un pequeño programa informático que replique el comportamiento de dicho disco cifrador\.

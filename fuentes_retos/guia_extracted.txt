@@ -1,0 +1,41 @@
+All WE are STEAM – Retos WE(2024)
+
+GUÍA DOCENTE
+
+Orientación Metodológica
+
+Los RETOS WE pretenden desarrollar las competencias STEAM y abarcan temas variados relacionados con la vida diaria del alumnado de diferentes niveles educativos, viendo la utilidad de los contenidos trabajados de manera contextualizada en situaciones de la vida real. Esos retos se pueden abordar en el aula desde una metodología activa en la que el alumnado sea el protagonista de su propio aprendizaje.
+
+Para afrontar estos retos, se pueden presentar de manera motivadora situando al alumnado en el rol de científico (ingeniero, ingeniera, arquitecta o arquitecto…). Estos retos pueden realizarse en pequeños grupos o grupos amplios. El trabajo colaborativo siempre es más enriquecedor, por lo que sugerimos formar grupos de 3-4 estudiantes. Estos grupos deben ser heterogéneos, formados por chicos y chicas con diferentes características y capacidades para que todos puedan aportar su granito de arena al trabajo cooperativo.
+
+Ante cualquiera de estos retos, y dependiendo del nivel educativo, se puede comenzar por animar a las y los estudiantes a hacer explícito ¿qué me están pidiendo en el reto?, ¿qué conozco sobre el tema? o ¿qué necesito saber? También se puede descomponer el problema en partes más pequeñas e ir analizándolas progresivamente.
+
+En el proceso de resolución del reto se puede ir revisando el trabajo de cada grupo e ir orientando la actividad con preguntas que guíen al alumnado, sobre todo a la hora de diseñar y validar el modelo requerido. Las preguntas pueden ir en la línea de ¿qué crees que puede ocurrir si utilizas/añades/cambias…? ¿por qué crees que no funciona? ¿qué elementos/materiales/herramientas/variables deberías tener en cuenta? O utilizar analogías de procesos más cercanos o conocidos por el alumnado. 
+
+También en este proceso, al igual que en la fase anterior, se pueden utilizar técnicas de dinámicas de grupos, como por ejemplo Phillips 66 [1-3], o técnicas cooperativas, como 1-2-4 [4-6], para compartir conocimientos.
+
+Para una mejor organización del trabajo de cada grupo se puede utilizar el tablero Kanban [7-8], marcando simplemente tres columnas: por hacer, en proceso y hecho. En cada sesión se dedican 3-5 minutos al principio, para situar el trabajo hecho y por hacer, decidir qué se va a abordar en la sesión y repartir tareas, y otros 3-5 minutos al final para revisar lo hecho. Esto facilitará el desarrollo de cada proyecto.
+
+Para atender a la diversidad de alumnado en el aula, dentro de cada grupo se pueden asignar tareas según las capacidades de cada estudiante (diseñar/dibujar/construir el modelo, buscar información, conseguir materiales, etc.). También para fomentar la participación sin sesgos de género se pueden establecer roles en los grupos (secretaría, portavocía, moderador o moderadora, coordinación, etc.) con funciones bien definidas que irán rotando en cada sesión.
+
+Referencias
+
+[1]M. Luna Argudín. “Phillips 66”. Accesible desde: https://hadoc.azc.uam.mx/tecnicas/philips.htm
+
+[2]A. Barbero (2011), “Dinámicas participativas: Phillips 66”. Accesible desde: https://www.albarbero.com/2011/01/phillips-66.html 
+
+[3]Universidad Oberta de Cataluña, “Philips 662. Accesible desde: https://cv.uoc.edu/UOC/a/moduls/90/90_156/programa/main/viu/tecniques/viu29.htm
+
+[4]J. Blas García (2019), “Técnica cooperativa 4-2-1 como variación de la 1-2-4”. Accesible desde: https://www.jblasgarcia.com/2019/04/tecnica-cooperativa-4-2-1-como.html 
+
+[5]M. Calvo (2017), “Dinámica cooperativa: uno-dos-cuatro” en HAUTATZEN. Accesible desde: https://hautatzen.net/dinamica-uno-dos-cuatro/
+
+[6] Proyecto DIA – Docentes Innovando en el aula (2019), “Técnica 1-2-4”. Accesible desde: https://www3.gobiernodecanarias.org/medusa/ecoblog/mfumfri/2019/10/11/tecnica-1-2-4/ 
+
+[7]P. Santos (2023), “Mejora tu Gestión del Tiempo con Kanban” en PROYECTO MERAKY. Aprender Junt@s SIEMPRE es aprender MÁS. Accesible desde: https://blogsaverroes.juntadeandalucia.es/proyectomeraky/2023/06/01/mejora-tu-gestion-del-tiempo-con-kanban/
+
+[8]M. J. Lledó Pardo (2020), “KANBAN para niños” en THiNK productivity. Accesible desde: https://think-productivity.com/kanban-para-ninos/ 
+
+Agradecimientos
+
+El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “ALL WE ARE STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras (Women Engineers)”, número de referencia: 31-4ACT/23.

@@ -1,13 +1,6 @@
-# Ficha Reto 11. Circuitos con mucho arte
+# Reto 11. Circuitos con mucho arte
 
 **Autoras:** Elena Pascual-Corral, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 11 – Circuitos con mucho arte
 
 ### Descripción
 
@@ -31,11 +24,9 @@ La actividad planteada en este reto es adecuada para niveles de Educación Secun
 
 ### Contenidos a trabajar
 
-### Representación e interpretación de esquemas eléctricos básicos\.
-
-### Energía eléctrica\. Circuito eléctrico\.
-
-### Ley de Ohm\. Corriente continua\.
+- Representación e interpretación de esquemas eléctricos básicos.
+- Energía eléctrica. Circuito eléctrico.
+- Ley de Ohm. Corriente continua.
 
 ### Conocimientos básicos necesarios
 
@@ -43,11 +34,9 @@ Diferenciar materiales aislantes y conductores\.
 
 ### Competencias transversales a desarrollar
 
-### Creatividad y originalidad
-
-### Autonomía e iniciativa personal
-
-### Responsabilidad en el desarrollo tecnológico sostenible 
+- Creatividad y originalidad
+- Autonomía e iniciativa personal
+- Responsabilidad en el desarrollo tecnológico sostenible
 
 ### Materiales o recursos necesarios
 
@@ -145,8 +134,3 @@ Considera la posibilidad de utilizar materiales reciclados o sostenibles en el p
 ### Otras indicaciones
 
 Para seguir la receta de las plastilinas aislante y conductora puede requerirse la supervisión de un adulto\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

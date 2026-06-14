@@ -1,13 +1,6 @@
-# Ficha Reto 12. Fachadas eficientes
+# Reto 12. Fachadas eficientes
 
 **Autoras:** M.ª Paz Sáez-Pérez, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 12 – Fachadas eficientes
 
 ### Descripción
 
@@ -117,8 +110,3 @@ Para alumnos de cursos superiores, también se puede relacionar introduciendo lo
 ### Otras indicaciones
 
 Al ser un tema ampliamente conocido y que afecta a todos, sin tener que ser especialistas para poder proponer medidas de ahorro y eficiencia energética en los edificios, se puede desarrollar también en otras lenguas\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

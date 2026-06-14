@@ -1,13 +1,6 @@
-# Ficha Reto 8. Apps accesibles
+# Reto 8. Apps accesibles
 
 **Autoras:** Alicia García-Holgado, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 8 – Apps accesibles
 
 ### Descripción
 
@@ -65,7 +58,10 @@ Descripción generada automáticamente](../../_static/reto_08_images/img_02.png)
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 10: Reducir la desigualdad en y entre los países, en la meta:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_10_TARGET_10.2.png](../../_static/reto_08_images/img_03.png)
+```{image} ../../_static/reto_08_images/img_03.png
+:alt: ODS 10 Meta 10
+:width: 150px
+```
 
 Meta 10\.2: De aquí a 2030, potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición\.
 
@@ -82,8 +78,3 @@ Una vez hayan creado la primera versión de su proyecto, deben probarlo con otro
 ### Otras indicaciones
 
 Al ser un tema sencillo, sin vocabulario muy técnico, se puede desarrollar también en otras lenguas\. Por ejemplo, las pruebas de la aplicación con usuarios pueden realizarse en inglés\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

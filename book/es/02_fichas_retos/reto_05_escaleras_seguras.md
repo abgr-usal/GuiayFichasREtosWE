@@ -1,13 +1,6 @@
-# Ficha Reto 5. Escaleras seguras en los edificios
+# Reto 5. Escaleras seguras en los edificios
 
 **Autoras:** M.ª Ascensión Rodríguez-Esteban, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO N\.º 5 – El diseño de las escaleras: seguridad frente al riesgo de caídas en los edificios
 
 ### Descripción
 
@@ -114,8 +107,3 @@ Medir las mesetas y descansillos para comprobar si las dimensiones cumplen con e
 ![Diagrama, Dibujo de ingeniería
 
 Descripción generada automáticamente](../../_static/reto_05_images/img_05.png)
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

@@ -1,13 +1,6 @@
-# Ficha Reto 13. ¿Qué sabes de los "subproductos agroalimentarios"?
+# Reto 13. ¿Qué sabes de los “subproductos agroalimentarios”?
 
 **Autoras:** Isabel Revilla, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 13 – ¿Qué sabes de los “subproductos agroalimentarios”?
 
 ### Descripción
 
@@ -68,27 +61,45 @@ No es necesario que los alumnos tengan ningún conocimiento básico\. De forma o
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 6: Agua limpia y saneamiento; ODS 12: Producción y consumo responsables; y del ODS14: Vida submarina; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_6_TARGET_6.3.png](../../_static/reto_13_images/img_01.png)
+```{image} ../../_static/reto_13_images/img_01.png
+:alt: ODS 6 Meta 6
+:width: 150px
+```
 
 Meta 6\.3: De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.2.png](../../_static/reto_13_images/img_02.png)
+```{image} ../../_static/reto_13_images/img_02.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.2: De aquí a 2030, lograr la gestión sostenible y el uso eficiente de los recursos naturales\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.3.png](../../_static/reto_13_images/img_03.png)
+```{image} ../../_static/reto_13_images/img_03.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.3: De aquí a 2030, reducir a la mitad el desperdicio de alimentos per cápita mundial en la venta al por menor y a nivel de los consumidores y reducir las pérdidas de alimentos en las cadenas de producción y suministro, incluidas las pérdidas posteriores a la cosecha\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.5.png](../../_static/reto_13_images/img_04.png)
+```{image} ../../_static/reto_13_images/img_04.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.5: De aquí a 2030, reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.6.png](../../_static/reto_13_images/img_05.png)
+```{image} ../../_static/reto_13_images/img_05.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.6: Alentar a las empresas, en especial las grandes empresas y las empresas transnacionales, a que adopten prácticas sostenibles e incorporen información sobre la sostenibilidad en su ciclo de presentación de informes\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_14_TARGET_14.1.png](../../_static/reto_13_images/img_06.png)
+```{image} ../../_static/reto_13_images/img_06.png
+:alt: ODS 14 Meta 14
+:width: 150px
+```
 
 Meta 14\.1: De aquí a 2025, prevenir y reducir significativamente la contaminación marina de todo tipo, en particular la producida por actividades realizadas en tierra, incluidos los detritos marinos y la polución por nutrientes\.
 
@@ -101,8 +112,3 @@ El reto puede ser un punto de partida para explicar el concepto de economía cir
 ### Otras indicaciones
 
 Se podría realizar en otras lenguas al menos la primera parte ya que el vocabulario e instrucciones son sencillas\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

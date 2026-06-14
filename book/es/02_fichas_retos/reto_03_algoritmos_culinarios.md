@@ -1,13 +1,6 @@
-# Ficha Reto 3. Algoritmos Culinarios
+# Reto 3. Algoritmos Culinarios
 
 **Autoras:** Ana B. González-Rogado, Ana M.ª Vivar-Quintana y Ana B. Ramos-Gavilán
-
----
-
-ALL WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 3 – Algoritmos Culinarios
 
 ### Descripción
 
@@ -63,7 +56,7 @@ Solo es necesario utilizar lápices, Bolígrafos o dispositivos electrónicos y 
 
 ### Otros materiales que se pueden utilizar
 
-- Cuadernillos digitales de pensamiento computacional: https://campusvirtual\.ull\.es/ocw/course/view\.php?id=153
+- Cuadernillos digitales de pensamiento computacional: [https://campusvirtual.ull.es/ocw/course/view.php?id=153](https://campusvirtual.ull.es/ocw/course/view.php?id=153)
 - Computer Science Unplugged: [https://www\.csunplugged\.org/es/](https://www.csunplugged.org/es/)
 - La educación en el pensamiento computacional: ¿cómo enseñar a los alumnos a pensar de manera algorítmica y lógica?: [https://www\.tekmaneducation\.com/pensamiento\-computacional/](https://www.tekmaneducation.com/pensamiento-computacional/) 
 - Licencias Creative Commons \(CC BY 4\.0 DEED\. Atribución 4\.0 Internacional\): [https://creativecommons\.org/licenses/by/4\.0/deed\.es](https://creativecommons.org/licenses/by/4.0/deed.es) 
@@ -72,15 +65,24 @@ Solo es necesario utilizar lápices, Bolígrafos o dispositivos electrónicos y 
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 4: Educación de calidad; del ODS 5: Igualdad de género; y del ODS 9\. Industria, innovación e infraestructuras; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_4_TARGET_4.4.png](../../_static/reto_03_images/img_01.png)
+```{image} ../../_static/reto_03_images/img_01.png
+:alt: ODS 4 Meta 4
+:width: 150px
+```
 
 Meta 4\.4\. Aumento de las competencias para acceder al empleo\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_5_TARGET_5.B.PNG](../../_static/reto_03_images/img_02.png)
+```{image} ../../_static/reto_03_images/img_02.png
+:alt: ODS 5 Meta 5
+:width: 150px
+```
 
 Meta 5\.B\. Mejorar el uso de tecnología y TIC\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_9_TARGET_9.B.PNG](../../_static/reto_03_images/img_03.png)
+```{image} ../../_static/reto_03_images/img_03.png
+:alt: ODS 9 Meta 9
+:width: 150px
+```
 
 Meta 9\.B\. Desarrollo de la tecnología, investigación e innovación\.
 
@@ -89,12 +91,4 @@ A través de la página [https://ingenieriaparaods\.usal\.es](https://ingenieria
 ### Aspectos que se deben tener en cuenta en la realización del reto
 
 Esta actividad interdisciplinaria puede ser adaptada para afrontar múltiples objetivos educativos, así como para conocer conceptos de programación en un contexto tangible y cotidiano como la cocina\. Se recomienda adaptar los materiales según la edad y habilidades de los y las estudiantes, así como los recursos disponibles en el entorno educativo\. La idea es hacer que la actividad sea accesible y significativa para quienes participan\.
-
-### Otras indicaciones
-
-Ninguna\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
 

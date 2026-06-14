@@ -1,13 +1,6 @@
-# Ficha Reto 9. ¿Podemos medir el confort de nuestra vivienda?
+# Reto 9. ¿Podemos medir el confort de nuestra vivienda?
 
 **Autoras:** M. Almudena Frechilla-Alonso, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 9 – ¿Podemos medir el confort de nuestra vivienda?
 
 ### Descripción
 
@@ -73,11 +66,17 @@ Dada la variedad de normativa nacional, autonómica y municipal aplicable a cada
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 3: Garantizar una vida sana y promover el bienestar para todos en todas las edades; y del ODS11: Lograr que las ciudades sean más inclusivas, seguras, resilientes y sostenibles; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_3_TARGET_3.4.png](../../_static/reto_09_images/img_01.png)
+```{image} ../../_static/reto_09_images/img_01.png
+:alt: ODS 3 Meta 3
+:width: 150px
+```
 
 Meta 3\.4: Para 2030, reducir en un tercio la mortalidad prematura por enfermedades no transmisibles mediante la prevención y el tratamiento y promover la salud mental y el bienestar\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_11_TARGET_11.1.png](../../_static/reto_09_images/img_02.png)
+```{image} ../../_static/reto_09_images/img_02.png
+:alt: ODS 11 Meta 11
+:width: 150px
+```
 
 Meta 11\.1: De aquí a 2030, asegurar el acceso de todas las personas a viviendas y servicios básicos adecuados, seguros y asequibles y mejorar los barrios marginales\.
 
@@ -88,12 +87,4 @@ A través de la página [https://ingenieriaparaods\.usal\.es](https://ingenieria
 En el actual contexto post pandemia, esta propuesta ofrece la oportunidad de reflexionar sobre el alcance de las actuales condiciones de habitabilidad y el grado de adaptabilidad de nuestras viviendas ante situaciones coyunturales\.
 
 Este intercambio de ideas puede llevar a plantear como actividad complementaria el estudio de posibles mejoras de habitabilidad ante los nuevos hábitos diarios y nuestra propia percepción del confort\.
-
-### Otras indicaciones
-
-No se describen otras indicaciones\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
 

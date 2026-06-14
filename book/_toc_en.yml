@@ -4,6 +4,9 @@ parts:
   - caption: Cover
     chapters:
     - file: en/00_cover
+    - file: en/00_index
+    - file: en/00_citation
+    - file: en/00_funding
   - caption: Teaching Guide
     chapters:
     - file: en/01_teaching_guide/teaching_guide

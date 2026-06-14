@@ -1,13 +1,6 @@
-# Ficha Reto 4. Create the lever you need
+# Reto 4. Create the lever you need
 
 **Autoras:** Débora Rodrigues, Ana B. Ramos-Gavilán, Ana M.ª Vivar-Quintana y Ana B. González-Rogado
-
----
-
-All WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 4 – Create the lever you need
 
 ### Descripción
 
@@ -93,19 +86,31 @@ Secundaria:
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 8: Trabajo decente y crecimiento económico; del ODS 9: Industria, innovación e infraestructura; del ODS 10: Reducción de las desigualdades; y del ODS 12: Producción y consumo responsables; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_8_TARGET_8.2.png](../../_static/reto_04_images/img_01.png)
+```{image} ../../_static/reto_04_images/img_01.png
+:alt: ODS 8 Meta 8
+:width: 150px
+```
 
 Meta 8\.2: Elevar la productividad a través de la diversificación, tecnología e innovación\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_9_TARGET_9.B.PNG](../../_static/reto_04_images/img_02.png)
+```{image} ../../_static/reto_04_images/img_02.png
+:alt: ODS 9 Meta 9
+:width: 150px
+```
 
 Meta 9\.B: Desarrollo de la tecnología, investigación e innovación\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_10_TARGET_10.3.png](../../_static/reto_04_images/img_03.png)
+```{image} ../../_static/reto_04_images/img_03.png
+:alt: ODS 10 Meta 10
+:width: 150px
+```
 
 Meta 10\.3: Garantizar la igualdad de oportunidades\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_12_TARGET_12.5.png](../../_static/reto_04_images/img_04.png)
+```{image} ../../_static/reto_04_images/img_04.png
+:alt: ODS 12 Meta 12
+:width: 150px
+```
 
 Meta 12\.5: Prevención, reducción, reciclado y reutilización de desechos\.
 
@@ -118,8 +123,3 @@ Este reto es una oportunidad para llevar a cabo un aprendizaje basado en el dise
 ### Otras indicaciones
 
 Es importante que el docente fomente la creatividad, animando a la generación de ideas creativas y soluciones innovadoras, transmitiendo coraje para explorar y pensar fuera de lo convencional\.
-
-## Agradecimiento
-
-<a id="_heading=h.gjdgxs"></a>El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
-

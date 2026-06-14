@@ -1,13 +1,6 @@
-# Ficha Reto 16. ¿Cuánto ocupa el sonido?
+# Reto 16. ¿Cuánto ocupa el sonido?
 
 **Autoras:** Ana B. González-Rogado, Ana M.ª Vivar-Quintana y Ana B. Ramos-Gavilán
-
----
-
-ALL WE are STEAM  
-RETOS WE
-
-# FICHA RETO Nº 16 – ¿Cuánto ocupa el sonido?
 
 ### Descripción
 
@@ -72,15 +65,24 @@ Se necesita un dispositivo móvil, teléfono o tableta, con la aplicación [Ardu
 
 Con este reto se pretende concienciar sobre cómo con una formación STEAM se colabora en la consecución del ODS 4: Educación de calidad; del ODS 5: Igualdad de género; y del ODS 9: Industria, Innovación e infraestructuras; en las metas:
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_4_TARGET_4.1.png](../../_static/reto_16_images/img_01.png)
+```{image} ../../_static/reto_16_images/img_01.png
+:alt: ODS 4 Meta 4
+:width: 150px
+```
 
 Meta 4\.1: Asegurar la calidad de la educación primaria y secundaria\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_5_TARGET_5.B.PNG](../../_static/reto_16_images/img_02.png)
+```{image} ../../_static/reto_16_images/img_02.png
+:alt: ODS 5 Meta 5
+:width: 150px
+```
 
 Meta 5\.B: Mejorar el uso de tecnología y TIC\.
 
-![C:\Users\Carrascal Ramos\AppData\Local\Microsoft\Windows\INetCache\Content.Word\GOAL_9_TARGET_9.C.PNG](../../_static/reto_16_images/img_03.png)
+```{image} ../../_static/reto_16_images/img_03.png
+:alt: ODS 9 Meta 9
+:width: 150px
+```
 
 Meta 9\.C\. Aumento del acceso a TIC e Internet\.
 
@@ -89,12 +91,4 @@ A través de la página [https://ingenieriaparaods\.usal\.es](https://ingenieria
 ### Aspectos que se deben tener en cuenta en la realización del reto
 
 Este reto busca presentar a las y los estudiantes en el proceso de transformación de la información del mundo real al mundo digital\. Y fomenta la comprensión de conceptos científicos a través del uso un dispositivo que se utiliza a diario, pero que del que desconocen los sensores que tiene y su utilidad en todos los ámbitos\.
-
-### Otras indicaciones
-
-Ninguna\.
-
-## Agradecimiento
-
-El Ministerio de Igualdad del Gobierno de España, a través del Instituto de las Mujeres financia la actuación RETOS WE, convocatoria PAC 2023 INMUJERES, “All WE are STEAM – Experiencias de aprendizaje planteadas por mujeres ingenieras \(Women Engineers\)”, número de referencia: 31\-4ACT/23\.
 
